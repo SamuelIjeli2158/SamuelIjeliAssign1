@@ -21,7 +21,9 @@ public class CardTrick {
         for (int i = 0; i < magicHand.length; i++) {
             System.out.println("please pick a card");
             String randomNumber = sc.nextLine();
-            Card c = new Card();
+          //  Card c = new Card();
+            // System.out.println("The student name is" + card.getValue() );
+            
            
             
             //c.setValue(insert call to random number generator here)
