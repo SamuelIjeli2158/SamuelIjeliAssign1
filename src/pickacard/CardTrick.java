@@ -25,6 +25,8 @@ public class CardTrick {
           //   System.out.println("The value gotten is " + card.getValue() );
             
            System.out.println("what is the number on the card");
+           String [] deck = {"ace","spade", "heart", "diamond", "club" };
+           System.out.println(deck[2]);
                 
             
             //c.setValue(insert call to random number generator here)
