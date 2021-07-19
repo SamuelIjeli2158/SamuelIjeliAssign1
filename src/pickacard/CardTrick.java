@@ -9,20 +9,20 @@ import java.util.Scanner;
  * @author dancye
  * @author Paul Bonenfant
  * @author Samuel Ijeli 
- * @date June 7 2021
+ * @date July 19 2021
  */
 public class CardTrick {
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+      //  Scanner sc = new Scanner(System.in);
         
-        Card[] magicHand = new Card[7];
+      //  Card[] magicHand = new Card[7];
 
-        for (int i = 0; i < magicHand.length; i++) {
+   //     for (int i = 0; i < magicHand.length; i++) {
             System.out.println("please pick a card");
-            String randomNumber = sc.nextLine();
-          //  Card c = new Card();
-            // System.out.println("The student name is" + card.getValue() );
+       //     String randomNumber = sc.nextLine();
+        //   Card c = new Card();
+          //   System.out.println("The value gotten is " + card.getValue() );
             
            
             
@@ -36,7 +36,7 @@ public class CardTrick {
         //Then report the result here
     }
 
-    public CardTrick() {
-    }
+   
+    
 
-}
+
