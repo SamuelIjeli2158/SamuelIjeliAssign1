@@ -24,7 +24,8 @@ public class CardTrick {
         //   Card c = new Card();
           //   System.out.println("The value gotten is " + card.getValue() );
             
-           
+           System.out.println("what is the number on the card");
+                
             
             //c.setValue(insert call to random number generator here)
             //c.setSuit(Card.SUITS[insert call to random number between 0-3 here])
