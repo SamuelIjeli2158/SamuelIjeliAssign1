@@ -1,4 +1,4 @@
-package pickacard;
+package samuel.ijeli.s991602158;
 
 import java.util.Scanner;
 
